@@ -9,3 +9,4 @@ require (
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	golang.org/x/sys v0.29.0 // indirect
 )
+// The logwrapper package provides a simple wrapper around the zerolog logging library to include function names and line numbers in log messages.

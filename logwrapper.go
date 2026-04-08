@@ -10,6 +10,8 @@ package logwrapper
 // defer logwrapper.TraceFunc(logger)()
 // logger.Error().Msg(...)
 
+// The log output will look like this:
+
 import (
 	"runtime"
 	"strconv"
